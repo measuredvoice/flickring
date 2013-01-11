@@ -1,0 +1,11 @@
+
+http://measuredvoice.github.com/flickring/archive.html
+http://measuredvoice.github.com/flickring/atom.xml
+http://measuredvoice.github.com/flickring/categories.html
+http://measuredvoice.github.com/flickring/index.html
+http://measuredvoice.github.com/flickring/pages.html
+http://measuredvoice.github.com/flickring/sitemap.txt
+http://measuredvoice.github.com/flickring/tags.html
+
+http://measuredvoice.github.com/flickring/2013/01/10/hello-warld
+http://measuredvoice.github.com/flickring/lessons/2011/12/29/jekyll-introduction
